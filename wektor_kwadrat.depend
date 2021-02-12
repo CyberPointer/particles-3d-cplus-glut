@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1388797004 source:d:\wektor_kwadrat\main.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Kula_wektor.hpp"
+
+1388796993 source:d:\wektor_kwadrat\kula_wektor.cpp
+	"Kula_wektor.hpp"
+	<math.h>
+	<stdio.h>
+
+1388775477 d:\\wektor_kwadrat\kula_wektor.hpp
+	<GL/glut.h>
+
